@@ -18,14 +18,14 @@
     "name": "Grand Palace Temple",
     "type": "temple",
     "description": "An iconic Buddhist temple complex in Bangkok, Thailand.",
-    "imageUrl": "./images/wat.webp"
+    "imageUrl": "./images/copacabana.jpg"
   },
   {
     "id": 4,
     "name": "Angkor Wat",
     "type": "temple",
     "description": "A vast temple complex in Cambodia, known for its intricate stone carvings.",
-    "imageUrl": "./images/back-hk.jpg"
+    "imageUrl": "./images/copacabana.jpg"
   },
   {
     "id": 5,
