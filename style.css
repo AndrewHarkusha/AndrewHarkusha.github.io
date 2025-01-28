@@ -125,7 +125,7 @@
     width: 90%; /* gives a bit of flexibility on smaller screens */
   }
   
-#results {
+.results-content {
   position: absolute;
   top: 20%;
   left: 60%;
