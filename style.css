@@ -125,6 +125,12 @@
     width: 90%; /* gives a bit of flexibility on smaller screens */
   }
   
+.results {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
+
   .hero-content h1 {
     font-size: 4rem;
     margin-bottom: 20px;
