@@ -137,6 +137,15 @@
   max-width: 400px; 
 }
 
+.recommendation-card h3{
+  color: #fff;
+}
+
+.recommendation-card p{
+  color: #fff;
+}
+
+
   .hero-content h1 {
     font-size: 4rem;
     margin-bottom: 20px;
