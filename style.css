@@ -125,10 +125,11 @@
     width: 90%; /* gives a bit of flexibility on smaller screens */
   }
   
-.results {
+#results {
   position: absolute;
-  top: 50%;
-  left: 40%;
+  top: 20%;
+  left: 60%;
+  transform: translate(-50%, -50%);
 }
 
   .hero-content h1 {
