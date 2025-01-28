@@ -127,10 +127,10 @@
   
 .results-content {
   position: absolute;
-  top: 50%;
-  left: 95%;
-  transform: translate(-50%, -50%);
-  width: 100%; 
+  top: 10%;
+  left: 505%;
+  /*transform: translate(-50%, -50%);
+  width: 100%; */
 }
 
 .recommendation-card img{
