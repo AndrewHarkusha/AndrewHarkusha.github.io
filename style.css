@@ -127,9 +127,10 @@
   
 .results-content {
   position: absolute;
-  top: 20%;
-  left: 60%;
+  top: 50%;
+  left: 66%;
   transform: translate(-50%, -50%);
+  width: 50%; 
 }
 
   .hero-content h1 {
