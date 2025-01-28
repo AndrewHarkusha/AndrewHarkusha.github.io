@@ -18,14 +18,14 @@
     "name": "Grand Palace Temple",
     "type": "temple",
     "description": "An iconic Buddhist temple complex in Bangkok, Thailand.",
-    "imageUrl": "./images/grand.jpg"
+    "imageUrl": "./images/grandw.jpg"
   },
   {
     "id": 4,
     "name": "Angkor Wat",
     "type": "temple",
     "description": "A vast temple complex in Cambodia, known for its intricate stone carvings.",
-    "imageUrl": "./images/angkor.jpg"
+    "imageUrl": "./images/angkorw.jpg"
   },
   {
     "id": 5,
@@ -39,6 +39,6 @@
     "name": "Brazil",
     "type": "country",
     "description": "The largest country in South America, famous for its Carnival and soccer.",
-    "imageUrl": "./images/copacabana.jpg"
+    "imageUrl": "./images/brazil.jpg"
   }
 ]
